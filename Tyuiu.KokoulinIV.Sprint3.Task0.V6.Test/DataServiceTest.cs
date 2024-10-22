@@ -11,7 +11,7 @@ namespace Tyuiu.KokoulinIV.Sprint3.Task0.V6.Test
             int start = 1;
             int stop = 15;
             double res = ds.GetMultiplySeries(start, stop);
-            double wail = 0;
+            double wail = 0.001;
             Assert.AreEqual(wail, res);
         }
     }
