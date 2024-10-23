@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{ACE86F85
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KokoulinIV.Sprint3.Task1.V24", "Tyuiu.KokoulinIV.Sprint3.Task1.V24\Tyuiu.KokoulinIV.Sprint3.Task1.V24.csproj", "{96233C64-3F5F-49EE-BA21-38D4AE1855F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KokoulinIV.Sprint3.Task1.V24.lib", "Tyuiu.KokoulinIV.Sprint3.Task1.V24.lib\Tyuiu.KokoulinIV.Sprint3.Task1.V24.lib.csproj", "{B9B97E89-DCB4-45B6-8BD3-E7C81730951A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KokoulinIV.Sprint3.Task1.V24.Lib", "Tyuiu.KokoulinIV.Sprint3.Task1.V24.lib\Tyuiu.KokoulinIV.Sprint3.Task1.V24.Lib.csproj", "{B9B97E89-DCB4-45B6-8BD3-E7C81730951A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KokoulinIV.Sprint3.Task1.V24.Test", "Tyuiu.KokoulinIV.Sprint3.Task1.V24.Test\Tyuiu.KokoulinIV.Sprint3.Task1.V24.Test.csproj", "{292695B9-7945-4E0C-80B2-FB74D6F331B9}"
 EndProject
