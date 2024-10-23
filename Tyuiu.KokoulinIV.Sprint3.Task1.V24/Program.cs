@@ -1,11 +1,11 @@
-﻿using Tyuiu.KokoulinIV.Sprint3.Task1.V24.lib;
+﻿using Tyuiu.KokoulinIV.Sprint3.Task1.V24.Lib;
 namespace Tyuiu.KokoulinIV.Sprint3.Task1.V24
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            DataSrvice ds = new DataSrvice();
+            DataSevice ds = new DataSevice();
 
 
             Console.Title = "Спринт #3 | Выполнил Кокоулин И. В. | ИБКСб-24-1";

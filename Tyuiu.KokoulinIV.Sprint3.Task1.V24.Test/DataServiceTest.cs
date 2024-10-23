@@ -1,4 +1,4 @@
-using Tyuiu.KokoulinIV.Sprint3.Task1.V24.lib;
+using Tyuiu.KokoulinIV.Sprint3.Task1.V24.Lib;
 namespace Tyuiu.KokoulinIV.Sprint3.Task1.V24.Test
 {
     [TestClass]
@@ -7,7 +7,7 @@ namespace Tyuiu.KokoulinIV.Sprint3.Task1.V24.Test
         [TestMethod]
         public void TestMethod1()
         {
-            DataSrvice ds = new DataSrvice();
+            DataSevice ds = new DataSevice();
             int x = 5;
             int y = 1;
             int stop = 12;
