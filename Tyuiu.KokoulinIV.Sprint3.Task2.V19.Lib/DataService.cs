@@ -8,7 +8,7 @@ namespace Tyuiu.KokoulinIV.Sprint3.Task2.V19.Lib
             double z = 0;
             do
             {
-                z = z + Math.Round(Math.Cos(startValue)) * (1 / 2);
+                z = z + (Math.Cos(startValue) / 2);
                 startValue++;
             }
             while (startValue <= stopValue); 

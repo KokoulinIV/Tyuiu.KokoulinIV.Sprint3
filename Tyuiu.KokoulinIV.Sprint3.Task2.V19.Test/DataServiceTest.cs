@@ -13,7 +13,7 @@ namespace Tyuiu.KokoulinIV.Sprint3.Task2.V19.Test
             int a = 1;
             int b = 10;
             double res = ds.GetSumSeries(a, b);
-            double wail = 0;
+            double wail = -0.709;
             Assert.AreEqual(wail, res);
         }
     }
